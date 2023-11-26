@@ -2,6 +2,8 @@
 
 ctrl + f to search
 
+use local interpriter
+
 - create a new Git repository:
 
 cd "C:\Local_Git_Repository"		//"C:\your location"
