@@ -26,6 +26,8 @@ git init		//used to initialize a new Git repository
 git add HelloWorld.py		//git add (your file)
 				//note: does not commit the file to the Git repository
 
+git add*			//to  stage all files within the current repository folder
+
 
 - to verify that the file has been added:
 
