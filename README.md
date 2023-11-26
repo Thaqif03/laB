@@ -78,3 +78,10 @@ git clone <URL of repository to clone>			//eg: git clone https://github.com/Jeff
 git remote add origin https://github.com/Thaqif03/laB.git
 git branch -M main
 git push -u origin main
+
+- check origin:
+git remote -v
+
+- change origin:
+  git remote set-url origin {URL}
+
