@@ -1,4 +1,7 @@
 # laB
+
+ctrl + f to search
+
 - create a new Git repository:
 
 cd "C:\Local_Git_Repository"		//"C:\your location"
